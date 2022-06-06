@@ -1,0 +1,19 @@
+.Extra-part h1{
+    text-align: center;
+    font-size: 40px;
+    color: #03002E;
+}
+.Extra-part p{
+    color: #010048;
+    font-size: 21px;
+    text-align: center;
+}
+.Extra-part h3{
+    color: #03002E;
+    font-size: 27px;
+    text-align: center;
+}
+.Extra-part{
+    padding: 0px 30px;
+    padding-bottom: 20px;
+}

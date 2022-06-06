@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Navbar{
+    padding-top: 50px;
+}
+.nav-title{
+    text-align: center;
+    font-size: 55px;
+    color: #03002E;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+.nav-text{
+    text-align: center;
+    font-size: 19px;
+    text-transform: uppercase;
+    color: #010048;
+    font-weight: 500;
+}
